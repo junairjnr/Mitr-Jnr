@@ -1,0 +1,32 @@
+{
+    "theme_color": "#8f2608",
+    "background_color": "#8f2608",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "E-MITRA SEVA KENDRA",
+    "short_name": "E-MITRA SEVA KENDRA",
+    "description": "This is a Mobile application developed by Dreambiz business solutions Pvt ltd for their customers with all the facilities to know more about their online and offline services which they are offering through Emitra Seva Kendra. This App gives a detailed description of each and every online and offline service which they are providing through their centers and also they can even fetch the contact number of their nearest Emitra Seva Kendra through this app. Through this Customer will get a thorough knowledge about all the documents which are required for doing all these types of services. The most advantage of this application is customer can save their time by searching the details in this app itself. In the future, as a part of Digital India, all the customers can even sit in their homes and apply for a certificate through WhatsApp or other social media. All the services Like panchayat, municipal, civil supplies, Banking services like MINI atm, Money Transfer, ticketings, pan card application, Various Insurance Services, etc...The company is aiming this as a good opportunity for the customers in the future as a part of digital India",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
